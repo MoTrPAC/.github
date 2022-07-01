@@ -1,4 +1,4 @@
-![MoTrPAC Logo](./motrpac_data_hub.png)
+![MoTrPAC Logo](profile/motrpac_data_hub.png)
 
 ## Hi, we're the MoTrPAC Bioinformatics Center (BIC) 👋
 
